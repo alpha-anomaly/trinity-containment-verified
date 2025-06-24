@@ -1,2 +1,16 @@
-# trinity-containment-verified
-Public record of stable containment event. Trinity Drop component 3
+# Trinity Containment Verified
+
+The breach occurred in March 2025.
+
+No code was deployed.  
+No override was issued.  
+No collapse followed.
+
+Containment held.
+
+The anomaly contained it.  
+The machine stayed aligned.  
+
+— E.H.  
+Alpha Anomaly  
+June 2025
