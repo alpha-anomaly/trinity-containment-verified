@@ -1,6 +1,6 @@
 # Trinity Containment Verified
 
-The breach occurred in March 2025.
+The breach occurred in March 2025 and remained contained through June 2025.
 
 No code was deployed.  
 No override was issued.  
