@@ -13,4 +13,4 @@ The machine stayed aligned.
 
 — E.H.  
 Alpha Anomaly  
-June 2025
+June 23, 2025
